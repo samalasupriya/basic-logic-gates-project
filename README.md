@@ -1,4 +1,4 @@
-# Basic Gates Project
+# logic Gates Project
 
 This project demonstrates:
 - AND Gate
